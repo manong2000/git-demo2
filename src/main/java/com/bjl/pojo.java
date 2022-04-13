@@ -11,5 +11,6 @@ public class pojo {
         System.out.printf("你好啊", "master");
         System.out.printf("你好啊", "hot-fix ");
         System.out.printf("你好啊", "git-demo ");
+        System.out.printf("你好啊", "git-demo ");
     }
 }
